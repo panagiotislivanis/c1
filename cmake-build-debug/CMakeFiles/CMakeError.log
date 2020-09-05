@@ -1,0 +1,11 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/c/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+c:/c/bin/../lib/gcc/i686-w64-mingw32/4.8.3/../../../../i686-w64-mingw32/bin/ld.exe: cannot open output file a.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+
+
