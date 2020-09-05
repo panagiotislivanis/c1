@@ -48,7 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -77,7 +77,7 @@
       <updated>1599294275118</updated>
       <workItem from="1599294279126" duration="2186000" />
       <workItem from="1599296487278" duration="1867000" />
-      <workItem from="1599298406369" duration="5307000" />
+      <workItem from="1599298406369" duration="6478000" />
     </task>
     <servers />
   </component>
@@ -134,46 +134,46 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="175" y="115" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1599295150757" />
-    <state x="502" y="215" key="FileChooserDialogImpl" timestamp="1599298364270">
+    <state x="502" y="215" key="FileChooserDialogImpl" timestamp="1599313906265">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="502" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1599298364270" />
-    <state width="698" height="216" key="GridCell.Tab.0.bottom" timestamp="1599311448579">
+    <state x="502" y="215" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1599313906265" />
+    <state width="698" height="216" key="GridCell.Tab.0.bottom" timestamp="1599314010938">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1599311448579" />
-    <state width="698" height="216" key="GridCell.Tab.0.center" timestamp="1599311448579">
+    <state width="698" height="216" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1599314010938" />
+    <state width="698" height="216" key="GridCell.Tab.0.center" timestamp="1599314010938">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="216" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1599311448579" />
-    <state width="698" height="216" key="GridCell.Tab.0.left" timestamp="1599311448579">
+    <state width="698" height="216" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1599314010938" />
+    <state width="698" height="216" key="GridCell.Tab.0.left" timestamp="1599314010938">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="216" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1599311448579" />
-    <state width="698" height="216" key="GridCell.Tab.0.right" timestamp="1599311448579">
+    <state width="698" height="216" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1599314010938" />
+    <state width="698" height="216" key="GridCell.Tab.0.right" timestamp="1599314010938">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="216" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1599311448579" />
-    <state width="698" height="300" key="GridCell.Tab.1.bottom" timestamp="1599311447671">
+    <state width="698" height="216" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1599314010938" />
+    <state width="698" height="159" key="GridCell.Tab.1.bottom" timestamp="1599314002541">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1599311447671" />
-    <state width="698" height="300" key="GridCell.Tab.1.center" timestamp="1599311447671">
+    <state width="698" height="159" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1599314002541" />
+    <state width="698" height="159" key="GridCell.Tab.1.center" timestamp="1599314002541">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="300" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1599311447671" />
-    <state width="698" height="300" key="GridCell.Tab.1.left" timestamp="1599311447671">
+    <state width="698" height="159" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1599314002541" />
+    <state width="698" height="159" key="GridCell.Tab.1.left" timestamp="1599314002541">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="300" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1599311447671" />
-    <state width="698" height="300" key="GridCell.Tab.1.right" timestamp="1599311447671">
+    <state width="698" height="159" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1599314002541" />
+    <state width="698" height="159" key="GridCell.Tab.1.right" timestamp="1599314002541">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="698" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1599311447671" />
-    <state x="222" y="105" key="SettingsEditor" timestamp="1599303226374">
+    <state width="698" height="159" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1599314002541" />
+    <state x="222" y="105" key="SettingsEditor" timestamp="1599314034891">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1599303226374" />
+    <state x="222" y="105" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1599314034891" />
     <state x="592" y="305" key="cloudConfig.SelfSettingsDialog" timestamp="1599302815536">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
